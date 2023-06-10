@@ -3,7 +3,8 @@
 
 Assalomu alaykum 
 
-<h4>Bizni modalar olami saytimi modalar olamidagi yangiliklarni qo'yib boriladi</h4><br><br>
+<h4>Bizning Online Academyamizda yangi darsliklar qo'yib boriladi
+  qo'yib boriladi</h4><br><br>
 
 1.fayllarni yukklab olish
 
