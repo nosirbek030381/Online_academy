@@ -79,7 +79,7 @@ $username = $_SESSION['user'];
 
       <div class="info">
         <h3>Web dizayn</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, itaque!</p>
+        <p></p>
       </div></div></a>
       <a href="./course/webde.html">
       <div class="card reveal">
@@ -88,7 +88,7 @@ $username = $_SESSION['user'];
       </div>
       <div class="info">
         <h3>Web Dasturlash</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, itaque!</p>
+        
       </div>
     </div>
     <a href="./course/mobil.html" class="text">
@@ -98,7 +98,7 @@ $username = $_SESSION['user'];
       </div>
       <div class="info">
         <h3>Mobil Dasturlash</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, itaque!</p>
+        <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, itaque!</p> -->
       </div>
     </div></a>
     
